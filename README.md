@@ -3,6 +3,7 @@
 
 ## Dataset Used: 
 - <a href= "https://github.com/hithisisbag420/Bank_Loan_Analysis_Dasboard/blob/main/financial_loan.csv">Dataset</a>
+          
 
 ## Key Highlights of the Project
 📊 Developed interactive dashboards to visualize loan statuses, trends, and borrower profiles.
