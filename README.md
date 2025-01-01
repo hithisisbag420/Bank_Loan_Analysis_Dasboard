@@ -2,7 +2,7 @@
 ### I'm thrilled to share the completion of a comprehensive Loan Performance Analysis project guided by Swapnjeet S an expert in data-driven financial analytics. This project provided me the opportunity to deep-dive into loan portfolio trends, borrower insights, and performance metrics using Power BI Dashboards and SQL Queries.
 
 ## Dataset Used: 
-- <a href- "https://github.com/hithisisbag420/Bank_Loan_Analysis_Dasboard/blob/main/financial_loan.csv">Dataset</a>
+- <a href= "https://github.com/hithisisbag420/Bank_Loan_Analysis_Dasboard/blob/main/financial_loan.csv">Dataset</a>
 
 ## Key Highlights of the Project
 📊 Developed interactive dashboards to visualize loan statuses, trends, and borrower profiles.
